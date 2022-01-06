@@ -1,3 +1,1 @@
-library json_utils;
-
-export './json_utils/json_methods.dart';
+export './src/json_methods.dart';
